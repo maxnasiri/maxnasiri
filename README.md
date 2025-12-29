@@ -1,16 +1,52 @@
-## Hi there 👋
+I’m an experienced IT professional with a passion for cloud technologies, system administration, and problem-solving. Currently working as an IT-medarbejder at Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV) (Previously Agriculture company) in Copenhagen, Denmark. I worked in Azure, SQL/Oracle databases, and scripting with PowerShell, C#, Rust, and Python.
+Currently learning: Cloud security and AI fundamentals through Microsoft certifications. 
+Open to: Collaborations on open-source projects, IT support roles, or tech discussions. 
+Fun fact: I love cycling—it's my go-to hobby for staying active and exploring new places!
+________________________________________
+🔧 Tech Stack & Skills
+Here are some of the technologies and tools I work with:
+Windows Server Azure SQL Oracle PowerShell C# Rust Python ITIL Microsoft Teams
+Other skills: Fejlfinding (troubleshooting), database management, remote/on-site support, and system maintenance.
+________________________________________
+Certifications
+Proud holder of several Microsoft and AWS certifications:
+•	Microsoft Azure Security Engineer (AZ-500)
+•	Microsoft Azure Administrator (AZ-104)
+•	Microsoft Azure AI Fundamentals (AI-900)
+•	Microsoft Azure Fundamentals (AZ-900)
+•	Microsoft 365 Teams Administrator Associate
+•	Microsoft Teams og cloud system
+•	AWS Cloud Practitioner
+•	ITIL 4 Foundation
+________________________________________
+ Experience
+IT-medarbejder Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV), Copenhagen 2020 – Present
+•	Handling incidents and tasks via Service Desk tools
+•	Troubleshooting, diagnosing, and resolving 2nd-level IT issues
+•	Creating documentation and internal manuals
+•	Participating in service windows and planned system maintenance
+•	Running jobs, error logging, and escalating to vendors
+•	Working with SQL and Oracle databases
+•	Providing on-site and remote user support
+•	Collaborating with internal teams in IT Operations & System Management
+________________________________________
+🎓 Education
+•	IT-supporter Technical Education Copenhagen, Ballerup January 2017 – October 2020 Courses: Cisco Router & Switch Configuration (CCNA), Microsoft SQL Server, Linux, PowerShell, Microsoft Teams & Cloud System
+•	Bachelor in English Literature Karaj University1994 – 2000
+•	Master in IT Management Tehran University2003 – 2005
+________________________________________
+ Languages
+•	Danish – Fluent (written and spoken)
+•	English – Fluent (written and spoken)
+•	Italian – (written and spoken)
+•	Farsi – Fluent (written and spoken)
+________________________________________
+ Get in Touch
+•	Email:max.nasirizadeh@gmail.com
+•	LinkedIn:Mahmoud Nasirizadeh Sadabad
+•	GitHub: You're here! 😊
+________________________________________
+ GitHub Stats
+Max's GitHub Stats Top Languages
+Thanks for visiting my profile! Feel free to star ⭐ or fork my repos. Let's connect and build something awesome together. 
 
-<!--
-**maxnasiri/maxnasiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
