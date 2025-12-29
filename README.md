@@ -1,5 +1,5 @@
 
-I’m an experienced IT with a passion for cloud technologies, system administration, and problem-solving. Currently working as an IT-medarbejder at Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV) (Previously Agriculture company) in Copenhagen, Denmark. I worked in Azure, SQL/Oracle databases, and scripting with PowerShell, C#, Rust, and Python.
+I’m an experienced in IT with a passion for cloud technologies, system administration, and problem-solving. Currently working as an IT-medarbejder at Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV) (Previously Agriculture company) in Copenhagen, Denmark. I worked in Azure, SQL/Oracle databases, and scripting with PowerShell, C#, Rust, and Python.
 Currently learning: Cloud security and AI fundamentals through Microsoft certifications. 
 Open to: Collaborations on open-source projects, IT support roles, or tech discussions. 
 Fun fact: I love cycling—it's my go-to hobby for staying active and exploring new places!
