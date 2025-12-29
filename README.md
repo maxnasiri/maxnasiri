@@ -43,7 +43,8 @@ ________________________________________
 ________________________________________
  Get in Touch
 •	Email:max.nasirizadeh@gmail.com
-•	LinkedIn:Mahmoud Nasirizadeh Sadabad
+•	LinkedIn: https://www.linkedin.com/in/mahmoud-nasirizadeh-sadabad-aa6a5b223/
+
 •	GitHub: You're here! 😊
 ________________________________________
  GitHub Stats
