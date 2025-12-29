@@ -55,9 +55,7 @@ Thanks for visiting my profile! Feel free to star ⭐ or fork my repos. Let's co
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)
 
 
-📊 GitHub Stats
-![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxnasiri&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnasiri&layout=compact&theme=radical)
+
 
 
 
