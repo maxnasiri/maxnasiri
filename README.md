@@ -77,6 +77,12 @@ Thanks for visiting my profile! Feel free to star ⭐ or fork my repos. Let's co
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL-FFD700?style=for-the-badge&logo=itil&logoColor=black)
 
+![Cisco](https://img.shields.io/badge/Cisco-0C9ED8?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0066CC?style=for-the-badge&logo=netflix&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-004499?style=for-the-badge&logo=security&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-FF4136?style=for-the-badge&logo=shield&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)
 
 
 
