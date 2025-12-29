@@ -47,9 +47,9 @@ ________________________________________
 •	Farsi – Fluent (written and spoken)
 ________________________________________
  Get in Touch
-•	Email:max.nasirizadeh@gmail.com
+•	Email:  max.nasirizadeh@gmail.com
 
-•	LinkedIn: https://www.linkedin.com/in/mahmoud-nasirizadeh-sadabad-aa6a5b223/
+•	LinkedIn:  https://www.linkedin.com/in/mahmoud-nasirizadeh-sadabad-aa6a5b223/
 
 •	GitHub: You're here! 😊
 ________________________________________
