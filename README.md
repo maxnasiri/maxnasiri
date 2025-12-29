@@ -10,13 +10,6 @@ Here are some of the technologies and tools I work with:
 Windows Server Azure SQL Oracle PowerShell C# Rust Python ITIL Microsoft Teams
 Other skills: Fejlfinding (troubleshooting), database management, remote/on-site support, and system maintenance.
 
- Languages
- 
-•	Danish – Fluent (written and spoken)
-•	English – Fluent (written and spoken)
-•	Italian – (written and spoken)
-•	Farsi – Fluent (written and spoken)
-
  Get in Touch
 •	Email:  max.nasirizadeh@gmail.com
 
