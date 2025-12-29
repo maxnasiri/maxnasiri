@@ -58,3 +58,11 @@ IT-medarbejder Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV), Copenha
 Max's GitHub Stats Top Languages
 Thanks for visiting my profile! Feel free to star ⭐ or fork my repos. Let's connect and build something awesome together. 
 
+### 🔧 Tech Stack & Skills
+
+![Azure](https://img.shields.io/badge/Azure-0078F2?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
+<!-- Add more as needed -->
+
