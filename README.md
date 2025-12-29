@@ -10,35 +10,6 @@ Here are some of the technologies and tools I work with:
 Windows Server Azure SQL Oracle PowerShell C# Rust Python ITIL Microsoft Teams
 Other skills: Fejlfinding (troubleshooting), database management, remote/on-site support, and system maintenance.
 
-Certifications
-
-Proud holder of several Microsoft and AWS certifications:
-•	Microsoft Azure Security Engineer (AZ-500)
-•	Microsoft Azure Administrator (AZ-104)
-•	Microsoft Azure AI Fundamentals (AI-900)
-•	Microsoft Azure Fundamentals (AZ-900)
-•	Microsoft 365 Teams Administrator Associate
-•	Microsoft Teams og cloud system
-•	AWS Cloud Practitioner
-•	ITIL 4 Foundation
-
- Experience
-IT-medarbejder Styrelsen for Grøn Arealomlægning og Vandmiljø (SGAV), Copenhagen 2020 – Present
-•	Handling incidents and tasks via Service Desk tools
-•	Troubleshooting, diagnosing, and resolving 2nd-level IT issues
-•	Creating documentation and internal manuals
-•	Participating in service windows and planned system maintenance
-•	Running jobs, error logging, and escalating to vendors
-•	Working with SQL and Oracle databases
-•	Providing on-site and remote user support
-•	Collaborating with internal teams in IT Operations & System Management
-
-🎓 Education
-
-•	IT-supporter Technical Education Copenhagen, Ballerup January 2017 – October 2020 Courses: Cisco Router & Switch Configuration (CCNA), Microsoft SQL Server, Linux, PowerShell, Microsoft Teams & Cloud System
-•	Bachelor in English Literature Karaj University1994 – 2000
-•	Master in IT Management Tehran University2003 – 2005
-
  Languages
  
 •	Danish – Fluent (written and spoken)
