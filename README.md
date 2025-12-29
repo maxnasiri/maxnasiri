@@ -41,7 +41,6 @@ Thanks for visiting my profile! Feel free to star ⭐ or fork my repos. Let's co
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-00A3E0?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=robot&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
